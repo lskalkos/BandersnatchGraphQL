@@ -1,5 +1,5 @@
 # BandersnatchGraphQL
-A GraphQL API of the Black Mirror Netflix episode Bandersnatch.
+A GraphQL API of the Black Mirror Netflix interactive film Bandersnatch.
 
 To run the server:
 ```
