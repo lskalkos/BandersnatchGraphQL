@@ -1,6 +1,8 @@
 # BandersnatchGraphQL
 A GraphQL API of the Black Mirror Netflix interactive film Bandersnatch.
 
+![Bandersnatch Book](https://cdn.images.express.co.uk/img/dynamic/20/590x/secondary/Black-Mirror-Bandersnatch-1662501.jpg?r=1545991426915)
+
 To run the server:
 ```
 bundle exec puma
