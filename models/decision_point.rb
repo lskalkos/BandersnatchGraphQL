@@ -1,8 +1,9 @@
 class DecisionPoint
-  attr_reader :id
+  attr_reader :id, :description
 
   def initialize(params)
     @id = params[:id]
+    @description = params[:description]
   end
 
   def self.find(id)

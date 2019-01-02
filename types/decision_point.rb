@@ -8,5 +8,6 @@ module Types
 
     field :id, ID, null: false
     field :choices, [Types::Choice], null: false
+    field :description, String, null: false
   end
 end
