@@ -11,7 +11,7 @@ bundle exec puma
 http://localhost:9292/graphql
 Request body example:
 ```
-{ "query": "{ decisionPoints { id choices { name endingDecisionPoint { id } } } }" }
+{ "query": "{ decisionPoints { id choices { name endingDecisionPoint { description } } } }" }
 ```
 
 

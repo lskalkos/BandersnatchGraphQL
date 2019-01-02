@@ -8,8 +8,16 @@ class QueryRoot < GraphQL::Schema::Object
     description 'Get the decision points in Bandersnatch'
   end
 
+  field :choices, [Types::Choice], null: false do
+    description 'Get the choices in Bandersnatch'
+  end
+
   def decision_points
     DecisionPoint.all
+  end
+
+  def choices
+    Choice.all
   end
 end
 

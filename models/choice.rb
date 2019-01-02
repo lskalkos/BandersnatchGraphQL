@@ -5,7 +5,7 @@ class Choice
     @name = params[:name]
     @beginning_decision_point_id = params[:beginning_decision_point_id]
     @ending_decision_point_id = params[:ending_decision_point_id]
-    @beginng_decision_point = DecisionPoint.find(@beginning_decision_point_id)
+    @beginning_decision_point = DecisionPoint.find(params[:beginning_decision_point_id])
     @ending_decision_point = DecisionPoint.find(params[:ending_decision_point_id])
   end
 
