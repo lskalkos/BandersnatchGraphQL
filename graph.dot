@@ -1,0 +1,466 @@
+digraph Object {
+    1 [
+        fontsize = 8,
+        label = "What will you have for breakfast? Sugar puffs or frosties?"
+    ]
+
+    2 [
+        fontsize = 8,
+        label = "What music will you listen to? Thompson Twins or Now 2?"
+    ]
+
+    3 [
+        fontsize = 8,
+        label = "Will you write the game at Tuckersoft?  Accept or refuse?"
+    ]
+
+    4 [
+        fontsize = 8,
+        label = "Would you like to talk about what happened with your mother? Yes or No?"
+    ]
+
+    5 [
+        fontsize = 8,
+        label = "You may learn something new. Talk about your mom or not?"
+    ]
+
+    6 [
+        fontsize = 8,
+        label = "Phaedra or Bermuda Triangle vinyl?"
+    ]
+
+    7 [
+        fontsize = 8,
+        label = "Throw tea over computer or shout at dad?"
+    ]
+
+    8 [
+        fontsize = 8,
+        label = "Talk about mother or go back (Dad in bedroom)?"
+    ]
+
+    9 [
+        fontsize = 8,
+        label = "Follow Colin or talk to doctor?"
+    ]
+
+    10 [
+        fontsize = 8,
+        label = "Drop acid or not?"
+    ]
+
+    11 [
+        fontsize = 8,
+        label = "Who jumps? Stefan or Colin?"
+    ]
+
+    12 [
+        fontsize = 8,
+        label = "Talk about mother or go back (to Stefan / Colin jumping)"
+    ]
+
+    13 [
+        fontsize = 8,
+        label = "Bite nails or pull earlobe"
+    ]
+
+    14 [
+        fontsize = 8,
+        label = "Throw pills in trash or flush down toilet?"
+    ]
+
+    15 [
+        fontsize = 8,
+        label = "Destroy computer or hit desk?"
+    ]
+
+    16 [
+        fontsize = 8,
+        label = "Talk about mother or go back (Hit desk/ destroy computer)?"
+    ]
+
+    17 [
+        fontsize = 8,
+        label = "Pick up family photo or book?"
+    ]
+
+    18 [
+        fontsize = 8,
+        label = "Throw tea over computer or destroy computer (while writing game)?"
+    ]
+
+    19 [
+        fontsize = 8,
+        label = "Who is doing this to me? Netflix or BS symbol?"
+    ]
+
+    20 [
+        fontsize = 8,
+        label = "What the f*ck is Netflix? Tell him more or try to explain?"
+    ]
+
+    21 [
+        fontsize = 8,
+        label = "Tell more or stop the convo?"
+    ]
+
+    22 [
+        fontsize = 8,
+        label = "Want more action? Yes or fuck yeah?"
+    ]
+
+    23 [
+        fontsize = 8,
+        label = "Jump through window or fight her?"
+    ]
+
+    24 [
+        fontsize = 8,
+        label = "Balls or chop?"
+    ]
+
+    25 [
+        fontsize = 8,
+        label = "Talk about mother. (no choice)"
+    ]
+
+    26 [
+        fontsize = 8,
+        label = "No (will not go with mother, no choice.)"
+    ]
+
+    28 [
+        fontsize = 8,
+        label = "PAX or PAC?"
+    ]
+
+    29 [
+        fontsize = 8,
+        label = "Who is there? (no choice)"
+    ]
+
+    30 [
+        fontsize = 8,
+        label = "Kill dad or back off?"
+    ]
+
+    31 [
+        fontsize = 8,
+        label = "Pick up photo or kill dad?"
+    ]
+
+    32 [
+        fontsize = 8,
+        label = "Bury or chop up body?"
+    ]
+
+    33 [
+        fontsize = 8,
+        label = "Throw tea over computer or destroy computer? (Pearl future version)"
+    ]
+
+    34 [
+        fontsize = 8,
+        label = "Chop or bury? (no choice)"
+    ]
+
+    35 [
+        fontsize = 8,
+        label = "Will you have the game done by the end of the day?"
+    ]
+
+    36 [
+        fontsize = 8,
+        label = "Get rabbit from dad (no choice)"
+    ]
+
+    37 [
+        fontsize = 8,
+        label = "TOY or PAC?"
+    ]
+
+    38 [
+        fontsize = 8,
+        label = "PACS or BS symbol?"
+    ]
+
+    39 [
+        fontsize = 8,
+        label = "Enter doctors phone number"
+    ]
+
+    40 [
+        fontsize = 8,
+        label = "Go with mom on train? Yes or no?"
+    ]
+
+    41 [
+        fontsize = 8,
+        label = "Who is doing this to me? Netflix or BS symbol? (later on)"
+    ]
+
+    42 [
+        fontsize = 8,
+        label = "Let Colin yes go or kill him?"
+    ]
+
+    43 [
+        fontsize = 8,
+        label = Ending
+    ]
+
+    1 -> 2 [
+        fontsize = 8,
+        label = "Sugar puffs"
+    ]
+
+    2 -> 3 [
+        fontsize = 8,
+        label = "Thompson Twins"
+    ]
+
+    3 -> 3 [
+        fontsize = 8,
+        label = Accept
+    ]
+
+    3 -> 4 [
+        fontsize = 8,
+        label = Refuse
+    ]
+
+    4 -> 5 [
+        fontsize = 8,
+        label = No
+    ]
+
+    5 -> 6 [
+        fontsize = 8,
+        label = No
+    ]
+
+    6 -> 7 [
+        fontsize = 8,
+        label = Phaedra
+    ]
+
+    7 -> 8 [
+        fontsize = 8,
+        label = "Throw tea over computer"
+    ]
+
+    7 -> 9 [
+        fontsize = 8,
+        label = "Shout at dad"
+    ]
+
+    8 -> 7 [
+        fontsize = 8,
+        label = "Go back"
+    ]
+
+    9 -> 10 [
+        fontsize = 8,
+        label = "Follow Colin"
+    ]
+
+    10 -> 11 [
+        fontsize = 8,
+        label = "No - do not take acid"
+    ]
+
+    11 -> 12 [
+        fontsize = 8,
+        label = "Stefan jumps"
+    ]
+
+    11 -> 13 [
+        fontsize = 8,
+        label = Colin
+    ]
+
+    12 -> 11 [
+        fontsize = 8,
+        label = "Go back"
+    ]
+
+    13 -> 14 [
+        fontsize = 8,
+        label = "Bite nails"
+    ]
+
+    14 -> 15 [
+        fontsize = 8,
+        label = "Throw them away"
+    ]
+
+    15 -> 16 [
+        fontsize = 8,
+        label = "Destroy computer"
+    ]
+
+    15 -> 17 [
+        fontsize = 8,
+        label = "Hit desk"
+    ]
+
+    16 -> 15 [
+        fontsize = 8,
+        label = "Go back"
+    ]
+
+    17 -> 18 [
+        fontsize = 8,
+        label = "Pick up family photo"
+    ]
+
+    17 -> 28 [
+        fontsize = 8,
+        label = "Pick up book"
+    ]
+
+    18 -> 19 [
+        fontsize = 8,
+        label = "Throw tea over computer"
+    ]
+
+    19 -> 20 [
+        fontsize = 8,
+        label = Netflix
+    ]
+
+    19 -> 30 [
+        fontsize = 8,
+        label = "BS symbol"
+    ]
+
+    20 -> 21 [
+        fontsize = 8,
+        label = "Try to explain"
+    ]
+
+    21 -> 22 [
+        fontsize = 8,
+        label = "Tell him more"
+    ]
+
+    22 -> 23 [
+        fontsize = 8,
+        label = "Fuck yeah"
+    ]
+
+    23 -> 24 [
+        fontsize = 8,
+        label = "Fight her"
+    ]
+
+    23 -> 29 [
+        fontsize = 8,
+        label = "Leap through window"
+    ]
+
+    24 -> 25 [
+        fontsize = 8,
+        label = Balls
+    ]
+
+    25 -> 26 [
+        fontsize = 8,
+        label = "Talk about mom (no choice)"
+    ]
+
+    26 -> 17 [
+        fontsize = 8,
+        label = "No do not go with mom (no choice)"
+    ]
+
+    28 -> 19 [
+        fontsize = 8,
+        label = PAX
+    ]
+
+    29 -> 19 [
+        fontsize = 8,
+        label = "Who is there (no choice)"
+    ]
+
+    30 -> 31 [
+        fontsize = 8,
+        label = "Back off"
+    ]
+
+    30 -> 32 [
+        fontsize = 8,
+        label = "Kill dad"
+    ]
+
+    31 -> 19 [
+        fontsize = 8,
+        label = "Pick up photo"
+    ]
+
+    32 -> 33 [
+        fontsize = 8,
+        label = "Chop up body"
+    ]
+
+    32 -> 35 [
+        fontsize = 8,
+        label = "Bury body"
+    ]
+
+    33 -> 34 [
+        fontsize = 8,
+        label = "Throw tea over computer (Pearl version)"
+    ]
+
+    34 -> 32 [
+        fontsize = 8,
+        label = "Chop or bury body (no choice)"
+    ]
+
+    35 -> 36 [
+        fontsize = 8,
+        label = "No will not have it done"
+    ]
+
+    36 -> 37 [
+        fontsize = 8,
+        label = "Get rabbit from dad (no choice)"
+    ]
+
+    37 -> 38 [
+        fontsize = 8,
+        label = PAC
+    ]
+
+    37 -> 40 [
+        fontsize = 8,
+        label = TOY
+    ]
+
+    38 -> 39 [
+        fontsize = 8,
+        label = PACS
+    ]
+
+    39 -> 36 [
+        fontsize = 8,
+        label = "Enter wrong number"
+    ]
+
+    40 -> 41 [
+        fontsize = 8,
+        label = "No do not go on train"
+    ]
+
+    41 -> 42 [
+        fontsize = 8,
+        label = "BS symbol"
+    ]
+
+    42 -> 43 [
+        fontsize = 8,
+        label = "Let Colin go"
+    ]
+}

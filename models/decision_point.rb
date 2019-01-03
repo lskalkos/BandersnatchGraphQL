@@ -22,4 +22,8 @@ class DecisionPoint
   def choices
     Choice.where(beginning_decision_point_id: id)
   end
+
+  def to_s
+    description
+  end
 end

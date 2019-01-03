@@ -11,7 +11,10 @@ class Choice
 
   def self.where(options = {})
     all.select do |c|
-      c.beginning_decision_point_id == options[:beginning_decision_point_id]
+      options.keys.each do |o| 
+        puts (o.to_s + " " + c.send(o).to_s) 
+      end
+      options.keys.all?{|o| c.send(o) === options[o]}
     end
   end
 
