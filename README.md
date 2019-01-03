@@ -13,5 +13,7 @@ Request body example:
 ```
 { "query": "{ decisionPoints { id choices { name endingDecisionPoint { description } } } }" }
 ```
+A visualization (if you want to go down the hole):
+![Bandersnatch!](graph.jpg)
 
 
