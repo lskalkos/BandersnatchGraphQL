@@ -17,8 +17,6 @@ def to_dot_graph(graph, params = {})
     )
   end
 
-  puts edge_labels
-
   graph.each_edge do |u, v|
     dot_edge = edge_class.new(
         'label'    => edge_labels["#{u.id}-#{v.id}"],
@@ -48,7 +46,6 @@ end
 
 
 task :visualize_bandersnatch do
-
   graph = RGL::DirectedAdjacencyGraph.new
   Choice.all.each{|c| graph.add_edge(c.beginning_decision_point, c.ending_decision_point)}
   edge_labels = {}
@@ -58,5 +55,5 @@ task :visualize_bandersnatch do
     edge_labels[key] = c.name
   end
 
-  write_to_graphic_file(graph, {edge_labels: edge_labels}, 'jpg')
+  write_to_graphic_file(graph, edge_labels: edge_labels)
 end

@@ -11,9 +11,6 @@ class Choice
 
   def self.where(options = {})
     all.select do |c|
-      options.keys.each do |o| 
-        puts (o.to_s + " " + c.send(o).to_s) 
-      end
       options.keys.all?{|o| c.send(o) === options[o]}
     end
   end
