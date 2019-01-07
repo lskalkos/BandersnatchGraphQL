@@ -1,7 +1,16 @@
+GIT
+  remote: https://github.com/lskalkos/rgl
+  revision: a2019b424091b3f9958bd9eefa085822e7963780
+  branch: add-options-to-write-to-graphic-file
+  specs:
+    rgl (0.5.3)
+      lazy_priority_queue (~> 0.1.0)
+      stream (~> 0.5.0)
+
 GEM
   remote: http://rubygems.org/
   specs:
-    graphql (1.8.11)
+    graphql (1.8.13)
     lazy_priority_queue (0.1.1)
     mustermann (1.0.3)
     puma (3.12.0)
@@ -9,9 +18,6 @@ GEM
     rack-protection (2.0.5)
       rack
     rake (12.3.2)
-    rgl (0.5.3)
-      lazy_priority_queue (~> 0.1.0)
-      stream (~> 0.5.0)
     sinatra (2.0.5)
       mustermann (~> 1.0)
       rack (~> 2.0)
@@ -27,7 +33,7 @@ DEPENDENCIES
   graphql
   puma
   rake
-  rgl
+  rgl!
   sinatra
 
 BUNDLED WITH
