@@ -1,465 +1,465 @@
-digraph Object {
-    1 [
+digraph RGL__DirectedAdjacencyGraph {
+    "What will you have for breakfast? Sugar puffs or frosties?" [
         fontsize = 8,
         label = "What will you have for breakfast? Sugar puffs or frosties?"
     ]
 
-    2 [
+    "What music will you listen to? Thompson Twins or Now 2?" [
         fontsize = 8,
         label = "What music will you listen to? Thompson Twins or Now 2?"
     ]
 
-    3 [
+    "Will you write the game at Tuckersoft?  Accept or refuse?" [
         fontsize = 8,
         label = "Will you write the game at Tuckersoft?  Accept or refuse?"
     ]
 
-    4 [
+    "Would you like to talk about what happened with your mother? Yes or No?" [
         fontsize = 8,
         label = "Would you like to talk about what happened with your mother? Yes or No?"
     ]
 
-    5 [
+    "You may learn something new. Talk about your mom or not?" [
         fontsize = 8,
         label = "You may learn something new. Talk about your mom or not?"
     ]
 
-    6 [
+    "Phaedra or Bermuda Triangle vinyl?" [
         fontsize = 8,
         label = "Phaedra or Bermuda Triangle vinyl?"
     ]
 
-    7 [
+    "Throw tea over computer or shout at dad?" [
         fontsize = 8,
         label = "Throw tea over computer or shout at dad?"
     ]
 
-    8 [
+    "Talk about mother or go back (Dad in bedroom)?" [
         fontsize = 8,
         label = "Talk about mother or go back (Dad in bedroom)?"
     ]
 
-    9 [
+    "Follow Colin or talk to doctor?" [
         fontsize = 8,
         label = "Follow Colin or talk to doctor?"
     ]
 
-    10 [
+    "Drop acid or not?" [
         fontsize = 8,
         label = "Drop acid or not?"
     ]
 
-    11 [
+    "Who jumps? Stefan or Colin?" [
         fontsize = 8,
         label = "Who jumps? Stefan or Colin?"
     ]
 
-    12 [
+    "Talk about mother or go back (to Stefan / Colin jumping)" [
         fontsize = 8,
         label = "Talk about mother or go back (to Stefan / Colin jumping)"
     ]
 
-    13 [
+    "Bite nails or pull earlobe" [
         fontsize = 8,
         label = "Bite nails or pull earlobe"
     ]
 
-    14 [
+    "Throw pills in trash or flush down toilet?" [
         fontsize = 8,
         label = "Throw pills in trash or flush down toilet?"
     ]
 
-    15 [
+    "Destroy computer or hit desk?" [
         fontsize = 8,
         label = "Destroy computer or hit desk?"
     ]
 
-    16 [
+    "Talk about mother or go back (Hit desk/ destroy computer)?" [
         fontsize = 8,
         label = "Talk about mother or go back (Hit desk/ destroy computer)?"
     ]
 
-    17 [
+    "Pick up family photo or book?" [
         fontsize = 8,
         label = "Pick up family photo or book?"
     ]
 
-    18 [
+    "Throw tea over computer or destroy computer (while writing game)?" [
         fontsize = 8,
         label = "Throw tea over computer or destroy computer (while writing game)?"
     ]
 
-    19 [
+    "Who is doing this to me? Netflix or BS symbol?" [
         fontsize = 8,
         label = "Who is doing this to me? Netflix or BS symbol?"
     ]
 
-    20 [
+    "What the f*ck is Netflix? Tell him more or try to explain?" [
         fontsize = 8,
         label = "What the f*ck is Netflix? Tell him more or try to explain?"
     ]
 
-    21 [
+    "Tell more or stop the convo?" [
         fontsize = 8,
         label = "Tell more or stop the convo?"
     ]
 
-    22 [
+    "Want more action? Yes or fuck yeah?" [
         fontsize = 8,
         label = "Want more action? Yes or fuck yeah?"
     ]
 
-    23 [
+    "Jump through window or fight her?" [
         fontsize = 8,
         label = "Jump through window or fight her?"
     ]
 
-    24 [
+    "Balls or chop?" [
         fontsize = 8,
         label = "Balls or chop?"
     ]
 
-    25 [
+    "Talk about mother. (no choice)" [
         fontsize = 8,
         label = "Talk about mother. (no choice)"
     ]
 
-    26 [
+    "No (will not go with mother, no choice.)" [
         fontsize = 8,
         label = "No (will not go with mother, no choice.)"
     ]
 
-    28 [
+    "PAX or PAC?" [
         fontsize = 8,
         label = "PAX or PAC?"
     ]
 
-    29 [
+    "Who is there? (no choice)" [
         fontsize = 8,
         label = "Who is there? (no choice)"
     ]
 
-    30 [
+    "Kill dad or back off?" [
         fontsize = 8,
         label = "Kill dad or back off?"
     ]
 
-    31 [
+    "Pick up photo or kill dad?" [
         fontsize = 8,
         label = "Pick up photo or kill dad?"
     ]
 
-    32 [
+    "Bury or chop up body?" [
         fontsize = 8,
         label = "Bury or chop up body?"
     ]
 
-    33 [
+    "Throw tea over computer or destroy computer? (Pearl future version)" [
         fontsize = 8,
         label = "Throw tea over computer or destroy computer? (Pearl future version)"
     ]
 
-    34 [
+    "Chop or bury? (no choice)" [
         fontsize = 8,
         label = "Chop or bury? (no choice)"
     ]
 
-    35 [
+    "Will you have the game done by the end of the day?" [
         fontsize = 8,
         label = "Will you have the game done by the end of the day?"
     ]
 
-    36 [
+    "Get rabbit from dad (no choice)" [
         fontsize = 8,
         label = "Get rabbit from dad (no choice)"
     ]
 
-    37 [
+    "TOY or PAC?" [
         fontsize = 8,
         label = "TOY or PAC?"
     ]
 
-    38 [
+    "PACS or BS symbol?" [
         fontsize = 8,
         label = "PACS or BS symbol?"
     ]
 
-    39 [
+    "Enter doctors phone number" [
         fontsize = 8,
         label = "Enter doctors phone number"
     ]
 
-    40 [
+    "Go with mom on train? Yes or no?" [
         fontsize = 8,
         label = "Go with mom on train? Yes or no?"
     ]
 
-    41 [
+    "Who is doing this to me? Netflix or BS symbol? (later on)" [
         fontsize = 8,
         label = "Who is doing this to me? Netflix or BS symbol? (later on)"
     ]
 
-    42 [
+    "Let Colin yes go or kill him?" [
         fontsize = 8,
         label = "Let Colin yes go or kill him?"
     ]
 
-    43 [
+    Ending [
         fontsize = 8,
         label = Ending
     ]
 
-    1 -> 2 [
+    "What will you have for breakfast? Sugar puffs or frosties?" -> "What music will you listen to? Thompson Twins or Now 2?" [
         fontsize = 8,
         label = "Sugar puffs"
     ]
 
-    2 -> 3 [
+    "What music will you listen to? Thompson Twins or Now 2?" -> "Will you write the game at Tuckersoft?  Accept or refuse?" [
         fontsize = 8,
         label = "Thompson Twins"
     ]
 
-    3 -> 3 [
+    "Will you write the game at Tuckersoft?  Accept or refuse?" -> "Will you write the game at Tuckersoft?  Accept or refuse?" [
         fontsize = 8,
         label = Accept
     ]
 
-    3 -> 4 [
+    "Will you write the game at Tuckersoft?  Accept or refuse?" -> "Would you like to talk about what happened with your mother? Yes or No?" [
         fontsize = 8,
         label = Refuse
     ]
 
-    4 -> 5 [
+    "Would you like to talk about what happened with your mother? Yes or No?" -> "You may learn something new. Talk about your mom or not?" [
         fontsize = 8,
         label = No
     ]
 
-    5 -> 6 [
+    "You may learn something new. Talk about your mom or not?" -> "Phaedra or Bermuda Triangle vinyl?" [
         fontsize = 8,
         label = No
     ]
 
-    6 -> 7 [
+    "Phaedra or Bermuda Triangle vinyl?" -> "Throw tea over computer or shout at dad?" [
         fontsize = 8,
         label = Phaedra
     ]
 
-    7 -> 8 [
+    "Throw tea over computer or shout at dad?" -> "Talk about mother or go back (Dad in bedroom)?" [
         fontsize = 8,
         label = "Throw tea over computer"
     ]
 
-    7 -> 9 [
+    "Throw tea over computer or shout at dad?" -> "Follow Colin or talk to doctor?" [
         fontsize = 8,
         label = "Shout at dad"
     ]
 
-    8 -> 7 [
+    "Talk about mother or go back (Dad in bedroom)?" -> "Throw tea over computer or shout at dad?" [
         fontsize = 8,
         label = "Go back"
     ]
 
-    9 -> 10 [
+    "Follow Colin or talk to doctor?" -> "Drop acid or not?" [
         fontsize = 8,
         label = "Follow Colin"
     ]
 
-    10 -> 11 [
+    "Drop acid or not?" -> "Who jumps? Stefan or Colin?" [
         fontsize = 8,
         label = "No - do not take acid"
     ]
 
-    11 -> 12 [
+    "Who jumps? Stefan or Colin?" -> "Talk about mother or go back (to Stefan / Colin jumping)" [
         fontsize = 8,
         label = "Stefan jumps"
     ]
 
-    11 -> 13 [
+    "Who jumps? Stefan or Colin?" -> "Bite nails or pull earlobe" [
         fontsize = 8,
         label = Colin
     ]
 
-    12 -> 11 [
+    "Talk about mother or go back (to Stefan / Colin jumping)" -> "Who jumps? Stefan or Colin?" [
         fontsize = 8,
         label = "Go back"
     ]
 
-    13 -> 14 [
+    "Bite nails or pull earlobe" -> "Throw pills in trash or flush down toilet?" [
         fontsize = 8,
         label = "Bite nails"
     ]
 
-    14 -> 15 [
+    "Throw pills in trash or flush down toilet?" -> "Destroy computer or hit desk?" [
         fontsize = 8,
         label = "Throw them away"
     ]
 
-    15 -> 16 [
+    "Destroy computer or hit desk?" -> "Talk about mother or go back (Hit desk/ destroy computer)?" [
         fontsize = 8,
         label = "Destroy computer"
     ]
 
-    15 -> 17 [
+    "Destroy computer or hit desk?" -> "Pick up family photo or book?" [
         fontsize = 8,
         label = "Hit desk"
     ]
 
-    16 -> 15 [
+    "Talk about mother or go back (Hit desk/ destroy computer)?" -> "Destroy computer or hit desk?" [
         fontsize = 8,
         label = "Go back"
     ]
 
-    17 -> 18 [
+    "Pick up family photo or book?" -> "Throw tea over computer or destroy computer (while writing game)?" [
         fontsize = 8,
         label = "Pick up family photo"
     ]
 
-    17 -> 28 [
+    "Pick up family photo or book?" -> "PAX or PAC?" [
         fontsize = 8,
         label = "Pick up book"
     ]
 
-    18 -> 19 [
+    "Throw tea over computer or destroy computer (while writing game)?" -> "Who is doing this to me? Netflix or BS symbol?" [
         fontsize = 8,
         label = "Throw tea over computer"
     ]
 
-    19 -> 20 [
+    "Who is doing this to me? Netflix or BS symbol?" -> "What the f*ck is Netflix? Tell him more or try to explain?" [
         fontsize = 8,
         label = Netflix
     ]
 
-    19 -> 30 [
+    "Who is doing this to me? Netflix or BS symbol?" -> "Kill dad or back off?" [
         fontsize = 8,
         label = "BS symbol"
     ]
 
-    20 -> 21 [
+    "What the f*ck is Netflix? Tell him more or try to explain?" -> "Tell more or stop the convo?" [
         fontsize = 8,
         label = "Try to explain"
     ]
 
-    21 -> 22 [
+    "Tell more or stop the convo?" -> "Want more action? Yes or fuck yeah?" [
         fontsize = 8,
         label = "Tell him more"
     ]
 
-    22 -> 23 [
+    "Want more action? Yes or fuck yeah?" -> "Jump through window or fight her?" [
         fontsize = 8,
         label = "Fuck yeah"
     ]
 
-    23 -> 24 [
+    "Jump through window or fight her?" -> "Balls or chop?" [
         fontsize = 8,
         label = "Fight her"
     ]
 
-    23 -> 29 [
+    "Jump through window or fight her?" -> "Who is there? (no choice)" [
         fontsize = 8,
         label = "Leap through window"
     ]
 
-    24 -> 25 [
+    "Balls or chop?" -> "Talk about mother. (no choice)" [
         fontsize = 8,
         label = Balls
     ]
 
-    25 -> 26 [
+    "Talk about mother. (no choice)" -> "No (will not go with mother, no choice.)" [
         fontsize = 8,
         label = "Talk about mom (no choice)"
     ]
 
-    26 -> 17 [
+    "No (will not go with mother, no choice.)" -> "Pick up family photo or book?" [
         fontsize = 8,
         label = "No do not go with mom (no choice)"
     ]
 
-    28 -> 19 [
+    "PAX or PAC?" -> "Who is doing this to me? Netflix or BS symbol?" [
         fontsize = 8,
         label = PAX
     ]
 
-    29 -> 19 [
+    "Who is there? (no choice)" -> "Who is doing this to me? Netflix or BS symbol?" [
         fontsize = 8,
         label = "Who is there (no choice)"
     ]
 
-    30 -> 31 [
+    "Kill dad or back off?" -> "Pick up photo or kill dad?" [
         fontsize = 8,
         label = "Back off"
     ]
 
-    30 -> 32 [
+    "Kill dad or back off?" -> "Bury or chop up body?" [
         fontsize = 8,
         label = "Kill dad"
     ]
 
-    31 -> 19 [
+    "Pick up photo or kill dad?" -> "Who is doing this to me? Netflix or BS symbol?" [
         fontsize = 8,
         label = "Pick up photo"
     ]
 
-    32 -> 33 [
+    "Bury or chop up body?" -> "Throw tea over computer or destroy computer? (Pearl future version)" [
         fontsize = 8,
         label = "Chop up body"
     ]
 
-    32 -> 35 [
+    "Bury or chop up body?" -> "Will you have the game done by the end of the day?" [
         fontsize = 8,
         label = "Bury body"
     ]
 
-    33 -> 34 [
+    "Throw tea over computer or destroy computer? (Pearl future version)" -> "Chop or bury? (no choice)" [
         fontsize = 8,
         label = "Throw tea over computer (Pearl version)"
     ]
 
-    34 -> 32 [
+    "Chop or bury? (no choice)" -> "Bury or chop up body?" [
         fontsize = 8,
         label = "Chop or bury body (no choice)"
     ]
 
-    35 -> 36 [
+    "Will you have the game done by the end of the day?" -> "Get rabbit from dad (no choice)" [
         fontsize = 8,
         label = "No will not have it done"
     ]
 
-    36 -> 37 [
+    "Get rabbit from dad (no choice)" -> "TOY or PAC?" [
         fontsize = 8,
         label = "Get rabbit from dad (no choice)"
     ]
 
-    37 -> 38 [
+    "TOY or PAC?" -> "PACS or BS symbol?" [
         fontsize = 8,
         label = PAC
     ]
 
-    37 -> 40 [
+    "TOY or PAC?" -> "Go with mom on train? Yes or no?" [
         fontsize = 8,
         label = TOY
     ]
 
-    38 -> 39 [
+    "PACS or BS symbol?" -> "Enter doctors phone number" [
         fontsize = 8,
         label = PACS
     ]
 
-    39 -> 36 [
+    "Enter doctors phone number" -> "Get rabbit from dad (no choice)" [
         fontsize = 8,
         label = "Enter wrong number"
     ]
 
-    40 -> 41 [
+    "Go with mom on train? Yes or no?" -> "Who is doing this to me? Netflix or BS symbol? (later on)" [
         fontsize = 8,
         label = "No do not go on train"
     ]
 
-    41 -> 42 [
+    "Who is doing this to me? Netflix or BS symbol? (later on)" -> "Let Colin yes go or kill him?" [
         fontsize = 8,
         label = "BS symbol"
     ]
 
-    42 -> 43 [
+    "Let Colin yes go or kill him?" -> Ending [
         fontsize = 8,
         label = "Let Colin go"
     ]
